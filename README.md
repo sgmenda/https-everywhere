@@ -1,5 +1,4 @@
-[HTTPS Everywhere](https://www.eff.org/https-everywhere) [![Build Status](https://travis-ci.org/EFForg/https-everywhere.svg?branch=master)](https://travis-ci.org/EFForg/https-everywhere)
-[![Coverage Status](https://coveralls.io/repos/github/EFForg/https-everywhere/badge.svg?branch=master)](https://coveralls.io/github/EFForg/https-everywhere?branch=master)
+Not [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 ================
 
 Getting Started
