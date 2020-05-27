@@ -1,0 +1,7 @@
+<ruleset name="Keybase Onion">
+	<test url="http://keybase.io/" />
+	<test url="https://keybase.io/" />
+	<target host="keybase.io" />
+	<target host="www.keybase.io" />
+	<rule from="^https?://(www\.)?keybase\.io/" to="http://fncuwbiisyh6ak3i.onion/" />
+</ruleset>
